@@ -12,3 +12,5 @@
     Acceso: [http://example.com/admin/user-activity]
 * tw-elements [https://tailwind-elements.com/quick-start/]
 * flowbite [https://flowbite.com/docs/getting-started/quickstart/]
+
+* LDAP Record [https://ldaprecord.com/docs/core/v2/quickstart]
